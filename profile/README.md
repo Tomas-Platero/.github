@@ -1,6 +1,6 @@
 # 👋 Hola, soy Tomás Antonio Platero Ortega
 
-**Desarrollador Web FullStack** con base en Algeciras, Cádiz (España), especializado en **Frontend / MERN** y automatización con IA.
+**Desarrollador Web FullStack** especializado en **Frontend / MERN** y automatización con IA.
 
 Esta organización reúne los proyectos y experimentos de **[tomasplatero.com](https://tomasplatero.com)**, mi espacio de desarrollo, automatización e inteligencia artificial.
 
